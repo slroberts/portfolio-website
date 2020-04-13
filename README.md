@@ -46,4 +46,4 @@ You have the ability to write HTML, CSS, and responsive media queries. You also 
 ## Stretch
 
 - [ ] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
-- [ ] Download another template and see if you can get the CSS preprocessor working on the project
+- [x] Download another template and see if you can get the CSS preprocessor working on the project
